@@ -27,4 +27,6 @@ Looking closely at the graphic data, we can conclude that the main source of rev
  
  ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
- 
+ ### Summary 
+ Summarizing data and addressing disparities among the city types, there are some following recommendations to the  PyBer CEO:
+ * 
