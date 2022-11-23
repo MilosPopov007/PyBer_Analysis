@@ -7,5 +7,5 @@ After collecting the data (using the Pandas read_csv function and the OS module)
 -  [x] The x-axis is the number of rides for each city.
 -  [x] The y-axis is the average fare for each city.
 -  [x] The size of each marker is the average number of drivers in each city.
-
+![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig1.png)
  
