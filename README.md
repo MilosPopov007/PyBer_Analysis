@@ -9,11 +9,13 @@ After collecting the data (using the Pandas read_csv function and the OS module)
 -  [x] The size of each marker is the average number of drivers in each city.
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
-Looking closely at the graphic data, we can conclude that the main source of revenue for Pyber comes from Urban cities. ( The number of drives and overall number of rides are significantly higher than in Suburban and Rural cities).
+Looking closely at the graphic data, we can conclude that the main source of revenue for Pyber comes from Urban cities. ( The number of drivers and overall number of rides are significantly higher than in Suburban and Rural cities).
 
 * To present more in depth statistic, pie charts were used in this analysis 
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig5.png)
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig6.png)
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig7.png)
+
+*
 
  
