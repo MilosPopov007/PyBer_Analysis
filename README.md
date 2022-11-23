@@ -7,6 +7,7 @@ After collecting the data (using the Pandas read_csv function and the OS module)
 -  [x] The x-axis is the number of rides for each city.
 -  [x] The y-axis is the average fare for each city.
 -  [x] The size of each marker is the average number of drivers in each city.
+-  
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 Looking closely at the graphic data, we can conclude that the main source of revenue for Pyber comes from Urban cities. ( The number of drivers and overall number of rides are significantly higher than in Suburban and Rural cities).
@@ -20,5 +21,10 @@ Looking closely at the graphic data, we can conclude that the main source of rev
 * One the tasks was to find out if there were any outliers. For this part of the analysis the box-and-whisker plot was used.
  There is one outlier in the urban ride count data (West Angela city has the highest rider count). Also, the average number of rides in the rural cities is about 4 and 3.5-times lower per city than the urban and suburban cities, respectively. There where no outliners in [Ride Fare Data](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig3.png) and [Driver Count Data](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig4.png).
  ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig2.png)
+ 
+ * Multiple-line chart  was created to showcase each weeks peak or dip in Total Fares by City Type for selected time period. This data will be used to plan the number of drivers needed in the future for specific dates (day, week, month) of the year.
+ 
+ 
+ ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
  
