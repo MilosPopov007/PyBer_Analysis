@@ -18,7 +18,7 @@ Looking closely at the graphic data, we can conclude that the main source of rev
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 * One the tasks was to find out if there were any outliers. For this part of the analysis the box-and-whisker plot was used.
- There is one outlier in the urban ride count data (West Angela city has the highest rider count). Also, the average number of rides in the rural cities is about 4 and 3.5-times lower per city than the urban and suburban cities, respectively. There where no outliners in Ride Fare Data and Driver Count Data.
+ There is one outlier in the urban ride count data (West Angela city has the highest rider count). Also, the average number of rides in the rural cities is about 4 and 3.5-times lower per city than the urban and suburban cities, respectively. There where no outliners in [Ride Fare Data](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig3.png) and [Driver Count Data](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig4.png).
  ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig2.png)
 
  
