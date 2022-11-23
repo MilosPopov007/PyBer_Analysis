@@ -11,11 +11,14 @@ After collecting the data (using the Pandas read_csv function and the OS module)
 
 Looking closely at the graphic data, we can conclude that the main source of revenue for Pyber comes from Urban cities. ( The number of drivers and overall number of rides are significantly higher than in Suburban and Rural cities).
 
+
 * To present more in depth statistic, pie charts were used in this analysis 
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig5.png)
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig6.png)
 ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
-*
+* One the tasks was to find out if there were any outliers. For this part of the analysis the box-and-whisker plot was used.
+ There is one outlier in the urban ride count data (West Angela city has the highest rider count). Also, the average number of rides in the rural cities is about 4 and 3.5-times lower per city than the urban and suburban cities, respectively. There where no outliners in Ride Fare Data and Driver Count Data.
+ ![This is an image](https://github.com/MilosPopov007/PyBer_Analysis/blob/main/analysis/Fig2.png)
 
  
