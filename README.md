@@ -1,2 +1,3 @@
 # PyBer_Analysis
-Exploratory analysis on data  for Pyber, a Python-based ridesharing app company using Pandas libraries, the Jupyter Notebook, and Matplotlib 
+Exploratory data analytics for Pyber (Python-based ridesharing app company), using the  Pandas software library, Matplotlib (plotting library for the Python programming language) and interactive computational environment Jupyter Notebook
+## Results
